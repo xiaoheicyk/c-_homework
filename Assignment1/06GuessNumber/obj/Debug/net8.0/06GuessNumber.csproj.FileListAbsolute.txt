@@ -1,0 +1,14 @@
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/bin/Debug/net8.0/06GuessNumber
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/bin/Debug/net8.0/06GuessNumber.deps.json
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/bin/Debug/net8.0/06GuessNumber.runtimeconfig.json
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/bin/Debug/net8.0/06GuessNumber.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/bin/Debug/net8.0/06GuessNumber.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.AssemblyInfoInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.AssemblyInfo.cs
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.csproj.CoreCompileInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/refint/06GuessNumber.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/06GuessNumber.genruntimeconfig.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/06GuessNumber/obj/Debug/net8.0/ref/06GuessNumber.dll
