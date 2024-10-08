@@ -1,0 +1,14 @@
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/bin/Debug/net8.0/07Pyramid
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/bin/Debug/net8.0/07Pyramid.deps.json
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/bin/Debug/net8.0/07Pyramid.runtimeconfig.json
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/bin/Debug/net8.0/07Pyramid.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/bin/Debug/net8.0/07Pyramid.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.AssemblyInfoInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.AssemblyInfo.cs
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.csproj.CoreCompileInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/refint/07Pyramid.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/07Pyramid.genruntimeconfig.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/07Pyramid/obj/Debug/net8.0/ref/07Pyramid.dll
