@@ -1,0 +1,14 @@
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/bin/Debug/net8.0/05FizzBuzzis
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/bin/Debug/net8.0/05FizzBuzzis.deps.json
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/bin/Debug/net8.0/05FizzBuzzis.runtimeconfig.json
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/bin/Debug/net8.0/05FizzBuzzis.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/bin/Debug/net8.0/05FizzBuzzis.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.AssemblyInfoInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.AssemblyInfo.cs
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.csproj.CoreCompileInputs.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/refint/05FizzBuzzis.dll
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.pdb
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/05FizzBuzzis.genruntimeconfig.cache
+/Users/CC/Desktop/fullstack/c#/Assignment/05FizzBuzzis/obj/Debug/net8.0/ref/05FizzBuzzis.dll
