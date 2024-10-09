@@ -2,6 +2,8 @@
 //Practice array
 
 using System.Diagnostics;
+using System.Runtime.InteropServices.JavaScript;
+using System.Text;
 using Assignment02;
 
 public class Program
@@ -57,6 +59,8 @@ public class Program
             Console.Write(var + " ");
         }
     }
+    
+    
 
     static void q6()
     {
@@ -65,6 +69,38 @@ public class Program
         int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
         FrequentElement myFrequentElement = new FrequentElement();
         myFrequentElement.frequentElement(arr);
+    }
+
+
+    static void q7()
+    {
+        Console.WriteLine("Lets reverse the string");
+        Console.Write("Enter the string you want to reverse: ");
+        String str = Console.ReadLine();
+        StringReverse demo = new StringReverse();
+        demo.method(str);
+    }
+
+    static void q8()
+    {
+        Console.WriteLine("Lets reverse the sentence");
+        Console.Write("Enter the sentence you want to reverse: ");
+        String str = Console.ReadLine();
+        StringReverseSentence demo = new StringReverseSentence();
+        demo.method(str);
+    }
+
+    static void q9()
+    {
+        
+    }
+
+    static void q10()
+    {
+        Console.Write("Lets parse the url: ");
+        string url = Console.ReadLine();
+        StringURL demo = new StringURL();
+        demo.StringURL1(url);
     }
     static void Main()
     {
@@ -86,10 +122,19 @@ public class Program
         //q5();
         
         //frequent integer
-        q6();
+        //q6();
+        
+        //reverse string
+        //q7();
+        
+        //reverse sentence
+        //q8();
         
         
+        //parse the url
+        q10();
         
+
 
     }
 }
