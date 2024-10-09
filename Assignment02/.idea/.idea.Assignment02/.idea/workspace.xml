@@ -7,22 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0c4e08-eb50-4242-9819-563e97dd5c09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/StringPalindrome.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/StringPalindrome.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/StringReverseSentence.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/StringReverseSentence.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/bin/Debug/net8.0/Assignment02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/bin/Debug/net8.0/Assignment02.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/bin/Debug/net8.0/Assignment02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/bin/Debug/net8.0/Assignment02.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/Assignment02.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/ref/Assignment02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/ref/Assignment02.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/refint/Assignment02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment02/obj/Debug/net8.0/refint/Assignment02.dll" afterDir="false" />
-    </list>
+    <list default="true" id="ff0c4e08-eb50-4242-9819-563e97dd5c09" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728429384644</updated>
-      <workItem from="1728429385672" duration="14675000" />
+      <workItem from="1728429385672" duration="15274000" />
     </task>
     <servers />
   </component>
