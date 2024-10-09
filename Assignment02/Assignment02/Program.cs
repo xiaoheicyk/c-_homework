@@ -87,12 +87,17 @@ public class Program
         Console.Write("Enter the sentence you want to reverse: ");
         String str = Console.ReadLine();
         StringReverseSentence demo = new StringReverseSentence();
-        demo.method(str);
+        string result = demo.ReverseWords(str);
+        Console.WriteLine(result);
     }
 
     static void q9()
     {
-        
+        Console.WriteLine("Lets find all palindromes");
+        Console.Write("Enter the sentence: ");
+        string str = Console.ReadLine();
+        StringPalindrome demo = new StringPalindrome();
+        demo.method(str);
     }
 
     static void q10()
@@ -128,12 +133,15 @@ public class Program
         //q7();
         
         //reverse sentence
-        //q8();
+        q8();
         
+        //find palindromes
+        //q9();
         
         //parse the url
-        q10();
-        
+        //q10();
+
+
 
 
     }
