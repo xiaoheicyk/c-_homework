@@ -1,4 +1,4 @@
-namespace Q3;
+namespace Q3.DataModel;
 
 public class Person
 {
