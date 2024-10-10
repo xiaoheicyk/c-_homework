@@ -30,7 +30,7 @@ public class Ball
         }
         else
         {
-            Console.WriteLine("Size of ball is 0.");
+            Console.WriteLine("Size of ball is 0. Can not be thrown.");
         }
     }
     public void ThrownTimes()

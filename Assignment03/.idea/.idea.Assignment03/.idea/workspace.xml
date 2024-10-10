@@ -12,12 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b486328-b0d2-4ec3-b72b-fbd1bb9011ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q4/Ball.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q4/Color.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/Ball.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/Color.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/Color.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/bin/Debug/net8.0/Q4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/bin/Debug/net8.0/Q4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/bin/Debug/net8.0/Q4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/bin/Debug/net8.0/Q4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/Q4.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/ref/Q4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/ref/Q4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/refint/Q4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/obj/Debug/net8.0/refint/Q4.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728535587233</updated>
-      <workItem from="1728535589102" duration="4841000" />
+      <workItem from="1728535589102" duration="5199000" />
     </task>
     <servers />
   </component>

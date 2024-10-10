@@ -22,6 +22,7 @@ public class Color
 
     public int GrayScale()
     {
+        Console.WriteLine($"The gray scale is {(Red + Green + Blue) / 3}");
         return (Red + Green + Blue) / 3;
     }
 }
