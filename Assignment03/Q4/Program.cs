@@ -1,3 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Q4;
 
-Console.WriteLine("Hello, World!");
+public class Program
+{
+    public static void Main()
+    {
+        
+        Ball b = new Ball();
+        b.Color = new Color(1,2,3);
+        
+        
+
+
+    }
+}
