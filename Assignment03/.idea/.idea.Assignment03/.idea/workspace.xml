@@ -11,29 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b486328-b0d2-4ec3-b72b-fbd1bb9011ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q3/DataModel/Department.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3/Repository/ICourseService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3/Repository/IDepartmentService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3/Repository/IStudentService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/DataModel/Instructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/DataModel/Instructor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/DataModel/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/DataModel/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/DataModel/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/DataModel/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/Repository/IInstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/Repository/IInstructorService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/Repository/IPersonService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/Repository/IPersonService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/bin/Debug/net8.0/Q3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/bin/Debug/net8.0/Q3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/bin/Debug/net8.0/Q3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/bin/Debug/net8.0/Q3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/Q3.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/ref/Q3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/ref/Q3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/refint/Q3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/obj/Debug/net8.0/refint/Q3.dll" afterDir="false" />
-    </list>
+    <list default="true" id="1b486328-b0d2-4ec3-b72b-fbd1bb9011ec" name="Changes" comment="he" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -171,13 +150,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728535587233</updated>
-      <workItem from="1728535589102" duration="11125000" />
+      <workItem from="1728535589102" duration="11223000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
