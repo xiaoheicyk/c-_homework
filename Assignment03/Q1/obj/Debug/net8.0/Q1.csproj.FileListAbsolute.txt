@@ -1,0 +1,15 @@
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/bin/Debug/net8.0/Q1
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/bin/Debug/net8.0/Q1.deps.json
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/bin/Debug/net8.0/Q1.runtimeconfig.json
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/bin/Debug/net8.0/Q1.dll
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/bin/Debug/net8.0/Q1.pdb
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.AssemblyInfoInputs.cache
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.AssemblyInfo.cs
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.csproj.CoreCompileInputs.cache
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.sourcelink.json
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.dll
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/refint/Q1.dll
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.pdb
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/Q1.genruntimeconfig.cache
+/Users/CC/Documents/GitHub/c#/c-_homework/Assignment03/Q1/obj/Debug/net8.0/ref/Q1.dll
